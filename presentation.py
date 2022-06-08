@@ -770,6 +770,6 @@ for district in ['Noord/Tanki Leendert', 'Paradera', 'Oranjestad West', 'Oranjes
 # SIDEBAR
 st.sidebar.markdown("[Mercala](#section-1)", unsafe_allow_html=True)
 st.sidebar.markdown("[Summary Statistics](#section-2)", unsafe_allow_html=True)
-st.sidebar.markdown("[Opportunities](#section-2)", unsafe_allow_html=True)
+# st.sidebar.markdown("[Opportunities](#section-2)", unsafe_allow_html=True)
 
 # toc.generate()
